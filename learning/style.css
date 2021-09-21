@@ -1,0 +1,32 @@
+a:hover{
+    color:red;
+}
+h1 + p {
+    color:red;
+}
+ul li{
+    color:green;
+}
+.image{
+    height: 100px;
+}
+.container{
+    margin:20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+  
+
+}
+.container-1{
+    text-align: center;
+    background-color: green;
+    border:1px solid red;
+    margin:20px;
+    width:100px;
+    height:100px;
+    text-align: center;
+}
+
+   
